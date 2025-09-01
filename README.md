@@ -21,7 +21,8 @@ Um **app web interativo** feito com [Flet](https://flet.dev/) em Python, que exi
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/flet-carrosel-app.git
+git clone https://github.com/eduardoml93/flet-carrosel-app.git
 cd flet-carrosel-app
+
 
 
